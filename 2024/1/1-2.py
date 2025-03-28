@@ -36,7 +36,7 @@ with open("1-2-in.txt", "r") as f:
             match two:
                 case "A": potions += 6 + 1
                 case "B": potions += 6 + 2
-                case "C": potions += 6 + 3
+                case "C": potions += 6 + 4
                 case "D": potions += 6 + 6
 
         
